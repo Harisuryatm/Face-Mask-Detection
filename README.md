@@ -14,3 +14,4 @@ It is used for the detection of objects in an image. Using a basic architecture 
 
 Finding ways to improve model performance further in the future!!
 
+![masks](https://user-images.githubusercontent.com/40123845/144996603-be4a02ea-1af3-4e93-b272-ef159db9b180.jpg)
