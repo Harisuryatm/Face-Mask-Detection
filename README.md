@@ -12,6 +12,6 @@ Weight file : checkpoint_ssd300.pth.tar which is trained and stored in a drive f
 The VGG16 model is used as a base network to classify the objects and to turn the convolution neural network for detection process as regression problem ,SSD - Single Shot Detector model is used and stacked above for further predictions like bounding box position and confidence scores
 It is used for the detection of objects in an image. Using a basic architecture of the VGG-16 architecture, the SSD can outperform other object detectors such as YOLO and Faster R-CNN in terms of speed and accuracy.
 
-Finding ways to improve model performance further in the future!!
+**Finding ways to improve model performance further in the future!!**
 
 ![masks](https://user-images.githubusercontent.com/40123845/144996603-be4a02ea-1af3-4e93-b272-ef159db9b180.jpg)
